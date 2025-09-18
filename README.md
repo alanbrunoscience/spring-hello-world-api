@@ -95,7 +95,7 @@ If you have suggestions, corrections, or improvements, feel free to:
 - Submit a **pull request**  
 - Share with colleagues who are learning Java!  
 
-<br />
+---
 
 ## 📬Contact
 

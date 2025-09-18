@@ -7,6 +7,7 @@
 </div>
 
 <br />
+<br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -16,8 +17,6 @@
 </div>
 
 ---
-
-<br />
 
 ## 📖 Overview
 
@@ -29,8 +28,6 @@ The purpose of this project is to practice and demonstrate the basics of setting
 
 ---
 
-<br />
-
 ## ✨ Features
 
 <br />
@@ -41,8 +38,6 @@ The purpose of this project is to practice and demonstrate the basics of setting
 
 ---
 
-<br />
-
 ## 🛠️ Technologies Used
 
 <br />
@@ -52,8 +47,6 @@ The purpose of this project is to practice and demonstrate the basics of setting
 - 📦 Maven
 
 ---
-
-<br />
 
 ## 🚀 Getting Started
 
@@ -92,8 +85,6 @@ To run this project locally:
 ✅ You should see the message: **Hello World!**
 
 ---
-
-<br />
 
 ## 🫱🏻‍🫲🏻Contributions
 

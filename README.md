@@ -63,13 +63,13 @@ To run this project locally:
 1. 📥 Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:alanbrunoscience/spring-hello-world-api.git
    ```
 
 2. 📂 Navigate to the project folder:
 
    ```bash
-   cd hello-world-spring-boot
+   cd spring-hello-world-api
    ```
 
 3. ▶️ Run the application using Maven:
@@ -81,7 +81,7 @@ To run this project locally:
 4. 🌐 Open your browser and go to:
 
    ```
-   http://localhost:8080
+   http://localhost:8080/hello-world
    ```
 
 <br />
@@ -106,7 +106,5 @@ If you have suggestions, corrections, or improvements, feel free to:
 ## 📬Contact
 
 Developed by [**Alan Bruno**](https://github.com/alanbrunoscience)®
-
-
 
 For questions, suggestions, or collaborations, feel free to reach out via GitHub or open an issue!

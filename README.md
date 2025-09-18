@@ -8,25 +8,28 @@
 
 <br />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/>
+</div>
 
 ---
+
+<br />
 
 ## 📖 Overview
 
 <br />
 
-This is a simple **Hello World** application built with **Java Spring Boot**.  
+This is a simple **Hello World** application built with **Java Spring Boot**.
+
 The purpose of this project is to practice and demonstrate the basics of setting up a Spring Boot application.
 
-<br />
-
 ---
+
+<br />
 
 ## ✨ Features
 
@@ -34,11 +37,11 @@ The purpose of this project is to practice and demonstrate the basics of setting
 
 - ⚡ Basic Spring Boot setup  
 - 🌍 Simple Hello World REST endpoint  
-- 🪶 Lightweight and easy to run 
-
-<br />
+- 🪶 Lightweight and easy to run
 
 ---
+
+<br />
 
 ## 🛠️ Technologies Used
 
@@ -46,11 +49,11 @@ The purpose of this project is to practice and demonstrate the basics of setting
 
 - ☕ Java  
 - 🍃 Spring Boot  
-- 📦 Maven  
-
-<br />
+- 📦 Maven
 
 ---
+
+<br />
 
 ## 🚀 Getting Started
 
@@ -88,9 +91,9 @@ To run this project locally:
 
 ✅ You should see the message: **Hello World!**
 
-<br />
-
 ---
+
+<br />
 
 ## 🫱🏻‍🫲🏻Contributions
 
